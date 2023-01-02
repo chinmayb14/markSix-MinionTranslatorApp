@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Comic+Neue:wght@400;700&display=swap');
+
+:root{
+    --primary-color: #f2dd6e;
+    --secondary-color:#07004d;
+
+}
+
+body {
+    margin: 0;
+    background-color: var(--primary-color);
+    font-family: 'Comic Neue', cursive;
+}
+
+.Text {
+    width: 80%;
+    height: 20vh;
+    padding: 1rem;
+    display: block;
+    border-radius: 1rem;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+.heading{
+    text-align: center;
+    color:white;
+}
+.highlight-color{
+    color: var(--secondary-color);
+}
+.image {
+    max-width: 300px;
+    display: block;
+    margin: auto;
+    margin-bottom: 1rem;    
+}
+
+.navigation{
+    background-color: var(--secondary-color);
+    padding:2rem;
+    padding-bottom: 1rem;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    margin-bottom: 1rem;
+}
+
+.navigation .nav-brand{
+    color:var(--primary-color);
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+}
+
+.footer{
+    background-color: var(--secondary-color);
+    padding:2rem;
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+    margin-top: 2rem;
+}
+
+.footer .nav-brand{
+    color:var(--primary-color);
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+}
+.footer .footpara{
+    color:var(--primary-color);
+    text-align: center;
+    
+}
+#translateButton {
+    border:1px;
+    border-radius: 0.7rem;
+    display: block;
+    width: 9%;
+    height: 8vh;
+    margin: auto;
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
