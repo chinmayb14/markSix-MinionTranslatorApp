@@ -18,3 +18,6 @@ It's an translation app which converts the language english to the ones spoken b
 
 ![image](https://user-images.githubusercontent.com/45689921/211239048-651ef38a-2e70-4113-b070-332185c679bd.png)
 
+## Limitations
+
+we cannot translate a text more than 5 times a hour.
