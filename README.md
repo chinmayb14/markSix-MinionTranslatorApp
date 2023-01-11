@@ -10,7 +10,7 @@ Hosted on : Netlify
 
 ## About
 
-It's an translation app which converts the language english to the ones spoken by minions. The web App consists of 2 textareas in which 1 textarea is used for taking input and the other one is used for output. The translate button basically triggers a call back function which calls an API from funtranslations.com and the api sends the translated text an it is displayed to the user.
+It's an translation app which converts the language english to the ones spoken by minions. The web App consists of 2 textareas in which 1 textarea is used for taking input and the other one is used for output. The translate button basically triggers a call back function which calls an API from funtranslations.com and the api sends the translated text and it is displayed to the user.
 
 ## Screenshots
 
